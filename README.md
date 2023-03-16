@@ -1,6 +1,7 @@
 # NgHomepage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
+This is my personal, professional website which is intended to both present my experience and serve as a small demonstration of my skills.
 
 ## Development server
 
