@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "ng-homepage"
+  "defaultProject": "ng-homepage",
+  "cli": {
+    "analytics": "2bf4bb86-f3a0-4fbb-aecd-46a280945141"
+  }
 }
