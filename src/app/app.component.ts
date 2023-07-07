@@ -9,5 +9,4 @@ import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
 })
 export class AppComponent {
   title = 'ng-homepage';
-  faLinkedin = faLinkedin;
 }
